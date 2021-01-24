@@ -1,0 +1,11 @@
+.list {
+  &__search {
+    display: flex;
+    justify-content: center;
+    margin: 0 30% 0 30%;
+  }
+
+  &__table {
+    margin-top: 40px;
+  }
+}
