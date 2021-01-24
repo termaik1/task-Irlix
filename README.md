@@ -29,6 +29,9 @@
 ### frontend
     Запустить команду:
     * yarn run start
+    
+    Перейти на адрес:
+    http://localhost:4200
 
 ### backend
     Запустить команду для сборки:
@@ -36,6 +39,7 @@
 
     После сборки запустить:
     * docker-compose up -d
+    * npm install
 
     Для того чтобы были тестовые данные необходимо запустить:
     * sequelize db:seed
